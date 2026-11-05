@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "dev.tiertaggerplus.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "PlayerEntityMixin",
+    "PlayerListHudMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

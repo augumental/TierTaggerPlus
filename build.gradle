@@ -1,0 +1,55 @@
+plugins {
+	id 'fabric-loom' version "${loom_version}"
+}
+
+version = project.mod_version
+group = project.maven_group
+
+base { archivesName = project.archives_base_name }
+
+repositories {
+	maven { url "https://maven-central.storage-download.googleapis.com/maven2/" }
+	maven { url "https://maven.terraformersmc.com/releases/" }
+}
+
+loom {
+	splitEnvironmentSourceSets()
+	mods {
+		"tiertaggerplus" {
+			sourceSet sourceSets.main
+			sourceSet sourceSets.client
+		}
+	}
+}
+
+dependencies {
+	minecraft "com.mojang:minecraft:${project.minecraft_version}"
+	mappings "net.fabricmc:yarn:${project.yarn_mappings}:v2"
+	modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
+	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
+	modCompileOnly "com.terraformersmc:modmenu:${project.modmenu_version}"
+}
+
+processResources {
+	inputs.property "version", project.version
+	inputs.property "minecraft_version", project.minecraft_version
+	filesMatching("fabric.mod.json") {
+		expand "version": project.version, "minecraft_version": project.minecraft_version
+	}
+}
+
+tasks.withType(JavaCompile).configureEach { it.options.release = 21 }
+
+java {
+	sourceCompatibility = JavaVersion.VERSION_21
+	targetCompatibility = JavaVersion.VERSION_21
+}
+
+loom {
+	runs {
+		client {
+			property "tiertaggerplus.autotest", System.getenv("TTP_AUTOTEST") ?: ""
+			programArgs "--width", "1280", "--height", "720"
+		}
+	}
+}

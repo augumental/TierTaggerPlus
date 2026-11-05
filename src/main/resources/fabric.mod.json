@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "tiertaggerplus",
+  "version": "${version}",
+  "name": "TierTagger+",
+  "description": "Shows players' PvP tiers next to their nametag and lets you look anyone up across 8 tierlists: MCTiers, SubTiers, PvPTiers, StatTiers, TierTests, Mace SubModes, PvPHQ and MCPVP. Press K or use /tiers.",
+  "authors": ["TierTagger+ contributors"],
+  "contributors": ["Icons for MCTiers/SubTiers from uku3lig/TierTagger (MPL-2.0)", "Icons for PvPTiers from PvPTiers/Tiers (GPL-3.0)"],
+  "license": "GPL-3.0-or-later",
+  "icon": "assets/tiertaggerplus/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["dev.tiertaggerplus.TierTaggerPlus"],
+    "modmenu": ["dev.tiertaggerplus.gui.ModMenuCompat"]
+  },
+  "mixins": [
+    { "config": "tiertaggerplus.mixins.json", "environment": "client" }
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "minecraft": "${minecraft_version}",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}

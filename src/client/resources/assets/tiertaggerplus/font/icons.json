@@ -1,0 +1,1000 @@
+{
+ "providers": [
+  {
+   "type": "space",
+   "advances": {
+    "\ue0ff": 1
+   }
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mcpvp_bow.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue100"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mcpvp_cart.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue101"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mcpvp_creeper.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue102"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mcpvp_crystal.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue103"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mcpvp_diamond.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue104"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mcpvp_endeye.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue105"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mcpvp_logo.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue106"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mcpvp_mace.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue107"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mcpvp_moon.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue108"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mcpvp_nethpot.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue109"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mcpvp_pearl.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue10a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mcpvp_potion.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue10b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mcpvp_shield.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue10c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mcpvp_spear.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue10d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mcpvp_star.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue10e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mcpvp_sun.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue10f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mcpvp_sword.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue110"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mctiers_axe.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue111"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mctiers_logo.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue112"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mctiers_mace.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue113"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mctiers_nethop.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue114"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mctiers_pot.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue115"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mctiers_smp.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue116"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mctiers_sword.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue117"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mctiers_uhc.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue118"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/mctiers_vanilla.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue119"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/msm_logo.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue11a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/msm_mace_ht.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue11b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/msm_mace_lt.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue11c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/msm_mace_og.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue11d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/msm_rocket.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue11e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/msm_rod.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue11f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/msm_spear.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue120"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/msm_star.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue121"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/pvphq_axe.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue122"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/pvphq_cart.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue123"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/pvphq_crystal.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue124"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/pvphq_diamond.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue125"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/pvphq_heart.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue126"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/pvphq_logo.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue127"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/pvphq_mace.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue128"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/pvphq_nethpot.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue129"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/pvphq_pearl.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue12a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/pvphq_potion.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue12b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/pvphq_spear.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue12c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/pvphq_star.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue12d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/pvphq_sword.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue12e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/pvptiers_axe.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue12f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/pvptiers_crystal.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue130"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/pvptiers_logo.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue131"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/pvptiers_mace.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue132"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/pvptiers_neth_pot.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue133"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/pvptiers_pot.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue134"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/pvptiers_smp.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue135"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/pvptiers_sword.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue136"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/pvptiers_uhc.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue137"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_axe.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue138"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_bed.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue139"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_bolt.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue13a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_bolt_op.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue13b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_bow.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue13c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_cart.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue13d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_creeper.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue13e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_crystal.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue13f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_crystal_dia.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue140"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_diamond.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue141"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_diapot.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue142"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_elytra.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue143"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_gapple.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue144"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_heart.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue145"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_ingot.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue146"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_iron.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue147"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_logo.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue148"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_mace.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue149"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_nethpot.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue14a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_nethsword.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue14b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_pearl.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue14c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_soup.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue14d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_spear.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue14e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_star.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue14f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_sword.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue150"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/stattiers_trident.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue151"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/subtiers_bed.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue152"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/subtiers_bow.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue153"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/subtiers_creeper.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue154"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/subtiers_debuff.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue155"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/subtiers_dia_crystal.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue156"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/subtiers_dia_smp.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue157"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/subtiers_elytra.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue158"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/subtiers_logo.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue159"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/subtiers_manhunt.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue15a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/subtiers_minecart.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue15b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/subtiers_og_vanilla.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue15c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/subtiers_speed.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue15d"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/subtiers_trident.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue15e"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/tiertests_bed.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue15f"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/tiertests_bed_blue.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue160"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/tiertests_bridge.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue161"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/tiertests_crystal.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue162"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/tiertests_fireball.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue163"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/tiertests_glove.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue164"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/tiertests_heart.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue165"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/tiertests_logo.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue166"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/tiertests_mace.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue167"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/tiertests_nethpot.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue168"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/tiertests_pearl.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue169"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/tiertests_potion.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue16a"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/tiertests_star.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue16b"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/tiertests_sumo.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue16c"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "tiertaggerplus:icon/tiertests_sword.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    "\ue16d"
+   ]
+  }
+ ]
+}
